@@ -533,7 +533,7 @@ header > div {
 }
 /* line 478, ../sass/screen.scss */
 .hero-bg.glass {
-    background-image: url(/_images/glass.jpg);
+    background-image: url(/_images/wallpaper.png);
 }
 
 /* line 483, ../sass/screen.scss */
@@ -567,6 +567,34 @@ header > div {
     text-align: center;
     font-size: 42px;
 }
+#FPP .editorial-img {
+
+}
+.FPP {
+    background: url(../images/IFSTA.jpg) no-repeat;
+    background-position: 65% 10%;
+}
+.OFST {
+    background: url(../images/OFST.jpg) no-repeat;
+    background-position: 40% 10%;
+}
+.ACC {
+    background: url(../images/wallpaper.png);
+    color: #ffffff;
+}
+
+.OSUPP {
+        background: url(../images/pistolpete.jpg) no-repeat;
+        background-size: 200;
+    background-position: 40% 10%;
+}
+
+#Clients {
+
+
+}
+
+
 #xTuple .editorial-img {
     background-position: 90% 10%;
 }
@@ -591,6 +619,7 @@ header > div {
 }
 .ELearning {
     background: url(../images/ELearning.jpg) no-repeat;
+    background-position: 15% 10%;
 
 }
 
@@ -601,7 +630,14 @@ header > div {
     background: url(../images/webdevelopment.jpg) no-repeat;
     background-size: 45%;
 }
-
+#Consulting .editorial-img {
+    background-position: 5% 10%;
+}
+.Consulting {
+    background: url(../images/consulting.jpg) no-repeat;
+    background-size: 45%;
+    background-position: 0% 5%;
+}
 
 #Jim .editorial-img {
     background-position: 90% 10%;
@@ -635,7 +671,7 @@ header > div {
 
 /* line 525, ../sass/screen.scss */
 .n4 {
-    background-image: url(/_images/collab.jpg);
+    background-image: url(/_images/wallpaper.png);
 }
 
 /* line 529, ../sass/screen.scss */
@@ -682,7 +718,7 @@ header > div {
 
 /* line 560, ../sass/screen.scss */
 .dark {
-    background-color: #333;
+    background-color: #A00000;
     color: #fff;
 }
 /* line 564, ../sass/screen.scss */
