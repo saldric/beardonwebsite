@@ -572,15 +572,17 @@ header > div {
 }
 .FPP {
     background: url(../images/IFSTA.jpg) no-repeat;
-    background-position: 65% 10%;
+    background-size: 250;
+    background-position: 65% 15%;
 }
 .OFST {
     background: url(../images/OFST.jpg) no-repeat;
     background-position: 40% 10%;
 }
 .ACC {
-    background: url(../images/wallpaper.png);
-    color: #ffffff;
+    background: url(../images/ACC_logo.png) no-repeat;
+    background-position: 60% 10%;
+
 }
 
 .OSUPP {
@@ -653,6 +655,11 @@ header > div {
         background-size: 45%
 }
 /* line 513, ../sass/screen.scss */
+.services {
+    background: url("../images/services-banner.jpg") no-repeat;
+    background-size: cover;
+}
+
 .n1 {
     background-image: url(../images/lightbulbs.jpg);
 }
@@ -684,6 +691,15 @@ header > div {
     color: #fff;
     text-shadow: 0 1px 0 black;
 }
+
+.links a {
+    color: #fff;
+}
+
+.links a:hover {
+    color: #eee;
+}
+
 @media (max-width: 768px) {
     /* line 533, ../sass/screen.scss */
     .lightContent {
@@ -718,7 +734,7 @@ header > div {
 
 /* line 560, ../sass/screen.scss */
 .dark {
-    background-color: #A00000;
+    background-color: #000000;
     color: #fff;
 }
 /* line 564, ../sass/screen.scss */
