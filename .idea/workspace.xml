@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dd62f03-fcee-47c0-b03b-0303ba8d4134" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="C:\wamp\www\Intellij Project\images\Ilias.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ilias Rooms.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Intellij Project.iws" />
@@ -50,11 +53,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Beardon Group.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Beardon Group.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Beardon Group.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3276644" vertical-offset="0" max-vertical-offset="2159">
-              <caret line="17" column="89" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="2159">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ilias Rooms.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ilias Rooms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2244898" vertical-offset="856" max-vertical-offset="2142">
+              <caret line="62" column="59" selection-start-line="62" selection-start-column="59" selection-end-line="62" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -65,8 +80,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="4098" max-vertical-offset="18173">
-              <caret line="280" column="19" selection-start-line="280" selection-start-column="19" selection-end-line="280" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="10395" max-vertical-offset="18224">
+              <caret line="621" column="39" selection-start-line="621" selection-start-column="39" selection-end-line="621" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -85,8 +100,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/Beardon Group.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/Ilias Rooms.html" />
       </list>
     </option>
   </component>
@@ -488,7 +504,7 @@
       <workItem from="1415222471222" duration="1021000" />
       <workItem from="1415213470951" duration="906000" />
       <workItem from="1415635988811" duration="588000" />
-      <workItem from="1422545678301" duration="2762000" />
+      <workItem from="1422545678301" duration="4392000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <created>1414003798471</created>
@@ -532,11 +548,17 @@
       <option name="project" value="LOCAL" />
       <updated>1422548420367</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New Commit">
+      <created>1422548491115</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1422548491115</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101002000" />
+    <option name="totallyTimeSpent" value="102632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -589,7 +611,8 @@
     <MESSAGE value="Commit" />
     <MESSAGE value="Commit 10/27" />
     <MESSAGE value="Commit 11/3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 11/3" />
+    <MESSAGE value="New Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -600,14 +623,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15657">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="106641">
@@ -970,16 +985,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4098" max-vertical-offset="18173">
-          <caret line="280" column="19" selection-start-line="280" selection-start-column="19" selection-end-line="280" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="10395" max-vertical-offset="18224">
+          <caret line="621" column="39" selection-start-line="621" selection-start-column="39" selection-end-line="621" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Beardon Group.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3276644" vertical-offset="0" max-vertical-offset="2159">
-          <caret line="17" column="89" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="2159">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ilias Rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2244898" vertical-offset="856" max-vertical-offset="2142">
+          <caret line="62" column="59" selection-start-line="62" selection-start-column="59" selection-end-line="62" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

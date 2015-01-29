@@ -618,7 +618,10 @@ header > div {
 
 
 }
-
+.Ilias {
+    background: url(../images/Ilias.png) no-repeat;
+    background-size: 45%;
+}
 
 .Group {
     background: url(../images/Beardongroup.png) no-repeat;
