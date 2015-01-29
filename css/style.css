@@ -620,6 +620,12 @@ header > div {
 }
 
 
+.Group {
+    background: url(../images/Beardongroup.png) no-repeat;
+    background-size: 45%;
+}
+
+
 #xTuple .editorial-img {
     background-position: 90% 10%;
 }
